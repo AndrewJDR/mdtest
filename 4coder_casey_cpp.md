@@ -1,4 +1,4 @@
-<pre>
+<code>
 /* NOTE(casey): This code is _extremely_ bad and is mostly just me hacking things // <a href="https://hero.handmade.network/episode/game-architecture/day247">247</a>
    around to put in features I want in advance of 4coder having them properly. // <a href="https://hero.handmade.network/episode/game-architecture/day247">247</a>
    Most of the time I haven&#39;t even taken enough time to read the 4coder API // <a href="https://hero.handmade.network/episode/game-architecture/day247">247</a>
@@ -1580,4 +1580,4 @@ extern &quot;C&quot; GET_BINDING_DATA(get_bindings) // <a href="https://hero.han
     end_bind_helper(context); // <a href="https://hero.handmade.network/episode/game-architecture/day256">256</a>
     return context-&gt;write_total; // <a href="https://hero.handmade.network/episode/game-architecture/day256">256</a>
 }
-</pre>
+</code>
