@@ -113,7 +113,7 @@
     my_code_map
 <font color="#FF0000">}</font><font color="#990000">;</font>
 
-<b><font color="#000080">#ifndef</font></b> Assert
+<b><font color="#000080">#ifndef</font></b> <span class="pl-c1">Assert</span>
 <b><font color="#000080">#define</font></b> internal <b><font color="#0000FF">static</font></b>
 <b><font color="#000080">#define</font></b> Assert assert 
 <b><font color="#000080">#endif</font></b>
