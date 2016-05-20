@@ -13,3 +13,12 @@ some      pre      text  // [247](https://hero.handmade.network/episode/game-arc
 ```
 some      pre      text  // <a href="https://hero.handmade.network/episode/game-architecture/day247">247</a>
 ```
+
+
+<code>
+some      pre      text  // <a href="https://hero.handmade.network/episode/game-architecture/day247">247</a>
+</code>
+
+<code>
+some      pre      text  // [247](https://hero.handmade.network/episode/game-architecture/day247")
+</code>
